@@ -1,2 +1,2 @@
 # SAVFI - Meta-Learning for Video Frame Interpolation
-<a href="https://arxiv.org/abs/2004.00779" rel="Video"><img src="./figures/SAVFI_paper_thumb.jpg" alt="Paper" width="100%"></a>
+[Paper-CVF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Scene-Adaptive_Video_Frame_Interpolation_via_Meta-Learning_CVPR_2020_paper.pdf)
