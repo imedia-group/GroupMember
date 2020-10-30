@@ -1,2 +1,2 @@
-# SAVFI - Meta-Learning for Video Frame Interpolation
-[Paper-CVF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Scene-Adaptive_Video_Frame_Interpolation_via_Meta-Learning_CVPR_2020_paper.pdf)
+# 强化学习论文合集
+[Paper-RL](https://github.com/PaddlePaddle/PARL/blob/develop/papers/archive.md#distributed-training)
